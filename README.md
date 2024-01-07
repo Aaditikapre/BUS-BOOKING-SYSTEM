@@ -4,7 +4,11 @@ This code excerpt serves as a foundational blueprint for developing a bus bookin
 
 
 How to use:
-1.Clone the repository on your local device
-2.Install all dependencies
-3.Run the command python -m http.server which creates a local server at port 8000
-4.The site will be visible at http://localhost:8000/
+
+1. Clone the repository on your local device
+
+2. Install all dependencies
+
+3. Run the command python -m http.server which creates a local server at port 8000
+
+4. The site will be visible at http://localhost:8000/
